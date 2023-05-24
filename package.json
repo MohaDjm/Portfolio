@@ -13,9 +13,9 @@
 		"lint:fix": "eslint --fix .",
 		"format": "prettier --write \"**/*.+(js|json|html|css|md)\""
 	},
-	"author": "Raj Shekhar",
+	"author": "Mohamed Djoumoi",
 	"license": "GPL-3.0-or-later",
-	"homepage": "https://rajshekhar26.github.io",
+	"homepage": "https://MohaDjm.github.io",
 	"devDependencies": {
 		"@babel/core": "^7.15.5",
 		"@babel/preset-env": "^7.15.4",

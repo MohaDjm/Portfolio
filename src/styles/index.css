@@ -250,6 +250,11 @@ section {
 	border-radius: 1em;
 }
 
+.project-container img {
+	max-width: 50%;
+	height: 250px;
+}
+
 .project img {
 	border-radius: 0.5em;
 }
